@@ -36,6 +36,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>四川移动外线应用</string>
+				<key>NSLocationUsageDescription</key>
+    				<string>App需要您的同意,才能访问位置</string>
 			</dict>
 		</dict>
 	</array>
