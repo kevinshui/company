@@ -11,31 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/kevinshui/company/master/JKiSmart.ipa</string>
+					<string>https://raw.githubusercontent.com/kevinshui/company/master/ccssoft.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/kevinshui/company/master/JKiSmartIcon.png</string>
+					<string>https://raw.githubusercontent.com/kevinshui/company/master/ios.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/kevinshui/company/master/JKiSmartIcon.png</string>
+					<string>https://raw.githubusercontent.com/kevinshui/company/master/ios.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ccssoft.jk.iResource</string>
+				<string>com.ccssoft.iResource</string>
 				<key>bundle-version</key>
-				<string>0.0.8</string>
+				<string>0.4.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>四川移动全业务规划管理系统</string>
+				<string>四川移动外线应用</string>
+				<key>NSLocationUsageDescription</key>
+     			<string>App需要您的同意,才能访问位置</string>
 			</dict>
 		</dict>
 	</array>
