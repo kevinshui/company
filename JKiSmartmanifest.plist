@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ccssoft.jk.iResource</string>
+				<string>com.ccssoft.iResource</string>
 				<key>bundle-version</key>
 				<string>0.0.8</string>
 				<key>kind</key>
